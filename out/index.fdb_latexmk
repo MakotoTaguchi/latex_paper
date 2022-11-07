@@ -1,12 +1,11 @@
 # Fdb version 3
-["dvipdf"] 1667502856 "out/index.dvi" "out/index.pdf" "out/index" 1667502860
-  "out/index.dvi" 1667502856 30352 fab3ecdab59a00a461c07d5ad2ba9dfd "latex"
+["dvipdf"] 1667792581 "out/index.dvi" "out/index.pdf" "out/index" 1667792585
+  "out/index.dvi" 1667792581 17948 2de07f30caa46ff69cde5a29e9b5529c "latex"
   (generated)
   "out/index.pdf"
-["latex"] 1667502855 "/Users/taguchimakoto/github/latex_paper/index.tex" "out/index.dvi" "index" 1667502860
-  "/Users/taguchimakoto/github/latex_paper/index.tex" 1667502832 3853 4ea74d1948b4dfd8bb03776930e5391e ""
+["latex"] 1667792581 "/Users/taguchimakoto/github/latex_paper/index.tex" "out/index.dvi" "index" 1667792585
+  "/Users/taguchimakoto/github/latex_paper/index.tex" 1667550020 3855 4a1e394891a7d53fe60f97f49cc47495 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
-  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1463434352 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm" 1463434352 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm" 1463434352 856 7404843a5f798859944d7973a47821d5 ""
@@ -29,7 +28,6 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1136768653 768 1321e9409b4137d6fb428ac9dc956269 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/ascmac/ascmac.sty" 1579124881 590 834565f4a016952bf667fd346b7aee71 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/ascmac/tascmac.sty" 1579124881 11463 e16f2fec3bf4db0d4002a155e4cf4467 ""
-  "/usr/local/texlive/2022/texmf-dist/tex/latex/base/omscmr.fd" 1622581934 2469 ed49302eacbaebdd899d39dedcd25393 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1465944070 1224 978390e9c2234eab29404bc21b268d1e ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/dvipdfmx.def" 1616189247 12854 d1d8e11aeb3b6a981367508e762ca48a ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty" 1622581934 18399 7e40f80366dffb22c0e7b70517db5cb4 ""
@@ -44,20 +42,18 @@
   "/usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf" 1646502317 40171 cdab547de63d26590bebb3baff566530 ""
   "/usr/local/texlive/2022/texmf-var/web2c/eptex/platex.fmt" 1657774577 2827146 e34fd6567e49b77ea8a49aba58ed73fa ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "chapter/chapter_1.tex" 1667502855 4195 2fb75ab096085af796fae6b2d0f998d1 ""
-  "chapter/chapter_2.tex" 1667469522 5462 2e284378b31b89dea181e639b33f4410 ""
+  "chapter/chapter_1.tex" 1667788026 2044 45eebc464301d924109a8e549f15ef53 ""
+  "chapter/chapter_2.tex" 1667792580 124 a7cac1685ed41ab54a4e1f112e04e319 ""
   "chapter/chapter_3.tex" 1667469522 2382 ad8037c96fa959ce3e3c8cdf146f1af8 ""
   "chapter/chapter_4.tex" 1667469522 3287 dd7b012eddeeee2ec87f64d2b0e91313 ""
-  "img/CIT.jpg" 1667469522 79092 e12eb5b9f5a60aff2aca3d323986656d ""
   "img/apple.png" 1667469522 74029 9c130e49eb09f562ce17d9b55911ad91 ""
   "img/graph.png" 1667498593 1217531 c65ede529961f5e19357bf33b78d98ac ""
-  "img/illust.pdf" 1667469522 76601 210699c3c6b283396c76a8042f1e6569 ""
   "img/work.png" 1667498593 888092 ffda06a3d369f8a88a78a36e91a8c215 ""
-  "index.tex" 1667502832 3853 4ea74d1948b4dfd8bb03776930e5391e ""
-  "out/index.aux" 1667502856 5295 2b0b1be4ff67e1198c871d60955ae1d8 "latex"
-  "out/index.lof" 1667502856 611 fa1948dbdd664d6ccfc9736a84e47bb8 "latex"
-  "out/index.lot" 1667502856 175 b7b3b3ea7a13d035a7b87af446a48fc3 "latex"
-  "out/index.toc" 1667502856 1672 fc41a4fdf5f8314ee413102769f3758e "latex"
+  "index.tex" 1667550020 3855 4a1e394891a7d53fe60f97f49cc47495 ""
+  "out/index.aux" 1667792581 3736 e60edf0467b521501873802c1f6980d5 "latex"
+  "out/index.lof" 1667792581 382 a39ca08344714af0f69e2329c2341651 "latex"
+  "out/index.lot" 1667792581 100 c03a2004eac0c6a6ab9a0264cc3bc842 "latex"
+  "out/index.toc" 1667792581 1306 f85a0c8596bddcc8864d9aa334c54522 "latex"
   "style/eclbkbox.sty" 1667469522 2338 aa5837e82377ed2acc7ee21c1d523b1d ""
   (generated)
   "out/index.aux"

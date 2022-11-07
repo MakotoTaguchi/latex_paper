@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.euc) (TeX Live 2022) (preloaded format=platex 2022.7.14)  4 NOV 2022 04:14
+This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.euc) (TeX Live 2022) (preloaded format=platex 2022.7.14)  7 NOV 2022 12:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -118,15 +118,6 @@ LaTeX Warning: Label `fig:図の名前' multiply defined.
 
 LaTeX Warning: Label `fig:図の名前' multiply defined.
 
-
-LaTeX Warning: Label `fig:図の名前' multiply defined.
-
-
-LaTeX Warning: Label `fig:図の名前' multiply defined.
-
-
-LaTeX Warning: Label `fig:図の名前' multiply defined.
-
 )
 \openout1 = `index.aux'.
 
@@ -235,53 +226,24 @@ LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 (Font)              scaled to size 8.64899pt on input line 16.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 8.64899pt on input line 16.
-File: ./img/graph.png Graphic file (type bmp)
-<./img/graph.png>
-
-Overfull \hbox (27.43796pt too wide) in paragraph at lines 26--27
- [] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 [1
 
 
 ]
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 48.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 48.
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 59.
-(/usr/local/texlive/2022/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 59.
-[2]) (./chapter/chapter_2.tex [3]
-第2章
-File: ./img/apple.png Graphic file (type bmp)
-<./img/apple.png>
-[4
+File: ./img/graph.png Graphic file (type bmp)
+<./img/graph.png>
 
-]
-File: ./img/CIT.jpg Graphic file (type bmp)
-<./img/CIT.jpg>
-[5]
-File: ./img/illust.pdf Graphic file (type pdf)
-<./img/illust.pdf>
-
-Overfull \hbox (54.05298pt too wide) in paragraph at lines 73--74
+Overfull \hbox (27.43796pt too wide) in paragraph at lines 27--28
  [] 
  []
 
-[6]
-Overfull \hbox (0.32639pt too wide) in paragraph at lines 124--124
-[]                \OT1/cmtt/m/n/10 & \multicolumn{1}{p{8zw}|}{\JY1/gt/m/n/10 カロリ ー\OT1/cmtt/m/n/10 }\\ \hline \hline[] 
- []
+) (./chapter/chapter_2.tex [2
 
-[7]) (./chapter/chapter_3.tex [8]
+]
+第2章
+) (./chapter/chapter_3.tex [3
+
+]
 第3章
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 (Font)              scaled to size 6.72699pt on input line 6.
@@ -292,18 +254,22 @@ Underfull \hbox (badness 1728) in paragraph at lines 6--7
 []\JY1/mc/m/n/10 文章中に脚注を使用したい場合は \OT1/cmr/m/n/10 foot-note \JY1/mc/m/n/10 コマンドを使用します ．
  []
 
-[9
+[4
 
-]) (./chapter/chapter_4.tex [10]
+]) (./chapter/chapter_4.tex [5]
 第4章
-[11
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 6.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 6.
+[6
 
 ]
 File: ./img/apple.png Graphic file (type bmp)
 <./img/apple.png>
-) [12] [13
+) [7] [8
 
-] [14
+] [9
 
 ] (out/index.aux)
 
@@ -311,12 +277,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1595 strings out of 478724
- 25924 string characters out of 5858392
- 331820 words of memory out of 5000000
- 20017 multiletter control sequences out of 15000+600000
- 483797 words of font info for 98 fonts, out of 8000000 for 9000
+ 1550 strings out of 478724
+ 25135 string characters out of 5858392
+ 326821 words of memory out of 5000000
+ 19980 multiletter control sequences out of 15000+600000
+ 483462 words of font info for 97 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 55i,11n,62p,473b,446s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 55i,8n,62p,473b,446s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/index.dvi (18 pages, 30352 bytes).
+Output written on out/index.dvi (13 pages, 17948 bytes).
